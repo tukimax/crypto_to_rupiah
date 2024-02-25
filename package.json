@@ -1,0 +1,28 @@
+{
+  "name": "rupiah",
+  "version": "1.0.0",
+  "description": "crypto to rupiah",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tukimax/crypto_to_rupiah.git"
+  },
+  "keywords": [
+    "crypto",
+    "to",
+    "rupiah"
+  ],
+  "author": "tukimax",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tukimax/crypto_to_rupiah/issues"
+  },
+  "homepage": "https://github.com/tukimax/crypto_to_rupiah#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "cryptocompare": "^1.0.0"
+  }
+}
